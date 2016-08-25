@@ -6,17 +6,4 @@ module.exports = {
     path: './public/dist',
     filename: 'fathom.js'
   }
-
-  /*
-  module: {
-    loaders: [{
-      test: /\.js$/,
-      loader: 'babel',
-      include: /js/,
-      query: {
-        presets: ['es2015'],
-      }
-    }]
-  }
-  */
 }
