@@ -9,7 +9,7 @@
     "watch": "webpack -w"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MPL-2.0",
   "devDependencies": {
     "expose-loader": "^0.7.1",
     "webpack": "^1.13.2"
