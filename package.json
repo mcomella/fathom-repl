@@ -1,0 +1,20 @@
+{
+  "name": "fathom-repl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "expose-loader": "^0.7.1",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "fathom-web": "^1.1.2"
+  }
+}
